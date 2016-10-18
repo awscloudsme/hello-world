@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Fellow Humans!
+
+This is my first git repositiory.  
